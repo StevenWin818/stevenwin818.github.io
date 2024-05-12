@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diaries on 小文の小站</title>
+    <link>//localhost:1313/diary/</link>
+    <description>Recent content in Diaries on 小文の小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 26 Feb 2024 13:15:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇日记</title>
+      <link>//localhost:1313/diary/hello_word/</link>
+      <pubDate>Mon, 26 Feb 2024 13:15:00 +0800</pubDate>
+      <guid>//localhost:1313/diary/hello_word/</guid>
+      <description>第一次尝试在网站上新建页面</description>
+    </item>
+  </channel>
+</rss>

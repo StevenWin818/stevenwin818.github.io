@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小文の小站</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on 小文の小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 26 Feb 2024 13:15:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇日记</title>
+      <link>//localhost:1313/diary/hello_word/</link>
+      <pubDate>Mon, 26 Feb 2024 13:15:00 +0800</pubDate>
+      <guid>//localhost:1313/diary/hello_word/</guid>
+      <description>第一次尝试在网站上新建页面</description>
+    </item>
+    <item>
+      <title>关于我：</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 25 Feb 2024 23:28:48 +0800</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello Word !</title>
+      <link>//localhost:1313/posts/hello_word/</link>
+      <pubDate>Sun, 25 Feb 2024 23:15:22 +0800</pubDate>
+      <guid>//localhost:1313/posts/hello_word/</guid>
+      <description>我的第一篇文章</description>
+    </item>
+    <item>
+      <title>友情鏈接</title>
+      <link>//localhost:1313/friends/</link>
+      <pubDate>Sun, 19 Sep 2021 12:33:48 +0800</pubDate>
+      <guid>//localhost:1313/friends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/links/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
